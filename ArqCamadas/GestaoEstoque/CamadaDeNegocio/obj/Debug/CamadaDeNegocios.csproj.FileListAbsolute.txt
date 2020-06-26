@@ -1,0 +1,40 @@
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.dll
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.pdb
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll.config
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll.config
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csprojAssemblyReference.cache
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll.config
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csprojAssemblyReference.cache
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.dll
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll.config
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb

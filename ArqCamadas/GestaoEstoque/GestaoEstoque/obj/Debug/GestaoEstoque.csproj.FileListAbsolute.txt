@@ -1,0 +1,115 @@
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe.config
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.pdb
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.dll
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.pdb
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll.config
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastros.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastrosFunc.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadColab.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadConsum.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadForn.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadProd.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCompras.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmFornecedores.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncio.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmInventario.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmLogin.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmVendas.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.Properties.Resources.resources
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CopyComplete
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.exe
+C:\Users\DELL\Desktop\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe.config
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll.config
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csprojAssemblyReference.cache
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastros.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastrosFunc.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadColab.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadConsum.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadForn.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadProd.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCompras.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmFornecedores.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncio.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmInventario.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmLogin.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmVendas.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.Properties.Resources.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.GenerateResource.cache
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CopyComplete
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.exe
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.pdb
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmSobre.resources
+C:\Users\rebeca\Videos\simplex\Corno-20191129T144800Z-001\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncioFunc.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe.config
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.pdb
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll.config
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csprojAssemblyReference.cache
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastros.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastrosFunc.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadColab.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadConsum.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadForn.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadProd.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCompras.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmFornecedores.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncio.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncioFunc.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmInventario.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmLogin.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmSobre.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmVendas.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.Properties.Resources.resources
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.GenerateResource.cache
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CopyComplete
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.exe
+C:\Users\rebeca\Documents\FATEC\4ºSEMESTRE\ENGENHARIA DE SOFTWARE 3\PROJETO\aAaAaAAAAAA\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe.config
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.exe
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\GestaoEstoque.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.dll
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeDados.dll.config
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastros.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadastrosFunc.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadColab.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadConsum.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadForn.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCadProd.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmCompras.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmFornecedores.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncio.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmIncioFunc.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmInventario.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmLogin.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmSobre.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.frmVendas.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.Properties.Resources.resources
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.exe
+C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\GestaoEstoque\obj\Debug\GestaoEstoque.pdb
