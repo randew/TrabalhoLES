@@ -39,6 +39,18 @@ namespace GestaoEstoque
             txtComplemento.Text = "";
             txtNome.Focus();
         }
+        private void LimparTela()
+        {
+            txtNome.Text = "";
+            mskCNPJ.Text = "";
+            txtNacionalidade.Text = "";
+            mskCEP.Text = "";
+            txtRua.Text = "";
+            txtLogradouro.Text = "";
+            txtNumero.Text = "";
+            txtComplemento.Text = "";
+            txtNome.Focus();
+        }
 
         private void frmCadForn_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -99,7 +111,10 @@ namespace GestaoEstoque
 
                     Fornecedor NovoUsuario = new Fornecedor();
                     if (NovoUsuario.FORcadastraForn(name, cnpj, nac, cep, rua, log, num, cpl))
+                    {
                         MessageBox.Show("Cadastro realizado!");
+                        LimparTela();
+                    }
                     else
                         MessageBox.Show("puts amigah");
                 }
@@ -110,6 +125,12 @@ namespace GestaoEstoque
         private void btnVoltar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnConsultar_Click(object sender, EventArgs e)
+        {
+            string text = this.txtPesquisa.Text;
+            this.dgvFrente.DataSource = this.dante.FORconsultaForno(text);
         }
     }
 }

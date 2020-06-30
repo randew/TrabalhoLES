@@ -5,48 +5,64 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.OleDb;
-
+using CamadaDeDados.Properties;
 
 namespace CamadaDeDados
 {
     public class Conexao
     {
-        OleDbConnection myBDConnection = new OleDbConnection(Properties.Settings.Default.padokaBDConnectionString);
+        private OleDbConnection myBDConnection = new OleDbConnection(Settings.Default.padokaBDConnectionString);
 
         public void abrirConexao()
         {
-            myBDConnection.Open();
-        }
-
-        public void fecharConexao()
-        {
-            myBDConnection.Close();
-        }
-
-        public DataSet RetornaDataSet(string sql)
-        {
-            try
-            {
-                abrirConexao();
-                OleDbDataAdapter oDa = new OleDbDataAdapter(sql, myBDConnection);
-                DataSet oDs = new DataSet();
-                oDa.Fill(oDs);
-                fecharConexao();
-                return oDs;
-            }
-            catch (Exception)
-            {
-
-                throw;
-            }
+            this.myBDConnection.Open();
         }
 
         public void ExecutaNQ(string sql)
         {
-            abrirConexao();
-            OleDbCommand command = new OleDbCommand(sql, myBDConnection);
-            command.ExecuteNonQuery();
-            fecharConexao();
+            this.abrirConexao();
+            new OleDbCommand(sql, this.myBDConnection).ExecuteNonQuery();
+            this.fecharConexao();
+        }
+
+        public void fecharConexao()
+        {
+            this.myBDConnection.Close();
+        }
+
+        public DataTable retornaAdapterTB(string sql, DataTable tb)
+        {
+            DataTable table;
+            try
+            {
+                this.abrirConexao();
+                new OleDbDataAdapter(new OleDbCommand(sql, this.myBDConnection)).Fill(tb);
+                this.fecharConexao();
+                table = tb;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            return table;
+        }
+
+        public DataSet RetornaDataSet(string sql)
+        {
+            DataSet set2;
+            try
+            {
+                this.abrirConexao();
+                DataSet dataSet = new DataSet();
+                new OleDbDataAdapter(sql, this.myBDConnection).Fill(dataSet);
+                this.fecharConexao();
+                set2 = dataSet;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            return set2;
         }
     }
 }

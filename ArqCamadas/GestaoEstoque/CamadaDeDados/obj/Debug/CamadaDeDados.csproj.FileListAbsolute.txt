@@ -19,3 +19,9 @@ C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeDados\
 C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.dll
 C:\Users\andre\OneDrive\Documentos\Corno\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
+C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.dll.config
+C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.pdb

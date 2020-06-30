@@ -12,7 +12,7 @@ namespace GestaoEstoque.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.9.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.3.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -26,11 +26,11 @@ namespace GestaoEstoque.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\rebeca\\Videos\\simplex\\Corn" +
-            "o-20191129T144800Z-001\\Corno\\banco\\padokaBD.mdb")]
-        public string padokaBDConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Users\\Antonio\\Documents\\TrabalhoL" +
+            "ES-master\\banco\\padokaBD.mdb")]
+        public string padokaBDConnectionString2 {
             get {
-                return ((string)(this["padokaBDConnectionString"]));
+                return ((string)(this["padokaBDConnectionString2"]));
             }
         }
         
@@ -47,11 +47,11 @@ namespace GestaoEstoque.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Users\\andre\\OneDrive\\Documentos\\P" +
-            "rojetoLES\\Trabalho-LES\\Software\\banco\\padokaBD.mdb")]
-        public string padokaBDConnectionString2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Users\\rebeca\\Videos\\simplex\\Corn" +
+            "o-20191129T144800Z-001\\Corno\\banco\\padokaBD.mdb")]
+        public string padokaBDConnectionString {
             get {
-                return ((string)(this["padokaBDConnectionString2"]));
+                return ((string)(this["padokaBDConnectionString"]));
             }
         }
     }
