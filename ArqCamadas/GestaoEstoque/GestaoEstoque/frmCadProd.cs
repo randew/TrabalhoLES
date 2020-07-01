@@ -66,7 +66,7 @@ namespace GestaoEstoque
                 else
                     MessageBox.Show("O produto não pode ser inserido");
             }
-            
+            label8.Text = prod.PROnome;
             
         }
 

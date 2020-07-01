@@ -105,7 +105,7 @@ namespace CamadaDeNegocios
             try
             {
                 object[] objArray1 = new object[13];
-                objArray1[0] = "insert into Produto(ID_Produto,Prod_Nome,Prod_Valor,ID_Lote) values('";
+                objArray1[0] = "insert into Produto(ID_Produto,Prod_Nome,Prod_Valor,ID_Lote,Prod_Qtd,Prod_Local) values('";
                 objArray1[1] = id;
                 objArray1[2] = "','";
                 objArray1[3] = name;
