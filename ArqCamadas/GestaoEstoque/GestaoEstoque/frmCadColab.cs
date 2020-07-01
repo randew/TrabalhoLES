@@ -33,9 +33,18 @@ namespace GestaoEstoque
             
             Login NovoUsuario = new Login();
             if (NovoUsuario.cadastraUsuario(name, CPF, usuario, senha, nivel))
+            {
                 MessageBox.Show("Cadastro realizado!");
+                txtNome.Text = "";
+                txtLogin.Text = "";
+                txtSenha.Text = "";
+                mskCPF.Text = "";
+                cbMostrar.Checked = false;
+                rdbFunc.Checked = true;
+                txtNome.Focus();
+            }
             else
-                MessageBox.Show("puts amigah");            
+                MessageBox.Show("Cadastro não realizado!");            
         }
 
         private void BtnInicio_Click(object sender, EventArgs e)
