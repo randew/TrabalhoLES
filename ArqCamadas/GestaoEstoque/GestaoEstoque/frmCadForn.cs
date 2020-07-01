@@ -116,7 +116,7 @@ namespace GestaoEstoque
                         LimparTela();
                     }
                     else
-                        MessageBox.Show("puts amigah");
+                        MessageBox.Show("Erro ao cadastrar!");
                 }
             }
 
