@@ -59,13 +59,35 @@ namespace CamadaDeNegocios
             PROid = int.Parse(id);
             return true;
 
+<<<<<<< Updated upstream
         }
 
         public bool PROinserirNome(string nome)
+=======
+        public bool PROalterar(string name, double val, long lote, long qtd, string local, long id)
+>>>>>>> Stashed changes
         {
             if (PROvalidaNome(nome))
             {
+<<<<<<< Updated upstream
                 PROnome = nome;
+=======
+                object[] objArray1 = new object[13];
+                objArray1[0] = "UPDATE Produto SET Prod_Nome='";
+                objArray1[1] = name;
+                objArray1[2] = "', Prod_Valor='";
+                objArray1[3] = val;
+                objArray1[4] = "', ID_Lote='";
+                objArray1[5] = lote;
+                objArray1[6] = "', Prod_Qtd='";
+                objArray1[7] = qtd;
+                objArray1[8] = "', Prod_Local='";
+                objArray1[9] = local;
+                objArray1[10] = "' WHERE ID_Produto='";
+                objArray1[11] = id;
+                objArray1[12] = "'";
+                new Conexao().ExecutaNQ(string.Concat(objArray1));
+>>>>>>> Stashed changes
                 return true;
             }
             return false;
@@ -74,7 +96,11 @@ namespace CamadaDeNegocios
         {
             if (PROvalidaPreco(valor))
             {
+<<<<<<< Updated upstream
                 PROvalor = double.Parse(valor);
+=======
+                new Conexao().ExecutaNQ(("DELETE FROM Produto WHERE ID_Prod=" + id + ""));
+>>>>>>> Stashed changes
                 return true;
             }
             return false;
@@ -92,7 +118,25 @@ namespace CamadaDeNegocios
         {
             if (PROvalidaQtd(qtd))
             {
+<<<<<<< Updated upstream
                 PROqtd = int.Parse(qtd);
+=======
+                object[] objArray1 = new object[13];
+                objArray1[0] = "insert into Produto(ID_Produto,Prod_Nome,Prod_Valor,ID_Lote,Prod_Qtd,Prod_Local) values('";
+                objArray1[1] = id;
+                objArray1[2] = "','";
+                objArray1[3] = name;
+                objArray1[4] = "','";
+                objArray1[5] = val;
+                objArray1[6] = "','";
+                objArray1[7] = lote;
+                objArray1[8] = "','";
+                objArray1[9] = qtd;
+                objArray1[10] = "','";
+                objArray1[11] = local;
+                objArray1[12] = "')";
+                new Conexao().ExecutaNQ(string.Concat(objArray1));
+>>>>>>> Stashed changes
                 return true;
             }
             return false;

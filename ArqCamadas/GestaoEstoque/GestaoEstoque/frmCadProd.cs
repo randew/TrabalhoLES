@@ -21,7 +21,14 @@ namespace GestaoEstoque
         private void frmCadProd_FormClosing(object sender, FormClosingEventArgs e)
         {
         }
+<<<<<<< Updated upstream
 
+=======
+        private void frmCadProd_Load(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> Stashed changes
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
             CamadaDeNegocios.Produto prod = new CamadaDeNegocios.Produto();
@@ -54,7 +61,11 @@ namespace GestaoEstoque
                 MessageBox.Show("Quantidade invalido");
                 txtQtd.Focus();
             }
+<<<<<<< Updated upstream
             else if (!prod.PROinserirLocal(txtLocal.Text.ToUpper()))
+=======
+            if (produto.PROinjetar(produto.PROid, produto.PROnome, produto.PROvalor, produto.PROlote, produto.PROqtd, produto.PROlocal))
+>>>>>>> Stashed changes
             {
                 MessageBox.Show("Local invalido (locais disponíveis: FRENTE e FUNDO");
                 txtLocal.Focus();
