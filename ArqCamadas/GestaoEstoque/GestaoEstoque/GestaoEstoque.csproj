@@ -121,6 +121,18 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmProdFrente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdFrente.Designer.cs">
+      <DependentUpon>frmProdFrente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdFund.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdFund.Designer.cs">
+      <DependentUpon>frmProdFund.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSobre.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,6 +187,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdFrente.resx">
+      <DependentUpon>frmProdFrente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdFund.resx">
+      <DependentUpon>frmProdFund.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSobre.resx">
       <DependentUpon>frmSobre.cs</DependentUpon>

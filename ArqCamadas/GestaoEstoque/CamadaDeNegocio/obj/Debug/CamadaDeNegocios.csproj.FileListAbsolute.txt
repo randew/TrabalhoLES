@@ -47,3 +47,12 @@ C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeN
 C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
 C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
 C:\Users\Antonio\Documents\TrabalhoLES-master\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.dll
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.pdb
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll.config
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
+C:\Users\Antonio\Documents\GitHub\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb
