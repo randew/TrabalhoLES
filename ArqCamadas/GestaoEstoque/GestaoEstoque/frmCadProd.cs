@@ -93,11 +93,8 @@ namespace GestaoEstoque
             {
                 MessageBox.Show("O produto n\x00e3o pode ser inserido");
             }
-<<<<<<< HEAD
-            label8.Text = prod.PROnome;
-            
-=======
->>>>>>> 8b8d8c668f97fac50c8c1b22e211b8a306846388
+
+            //label8.Text = prod.PROnome;
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)

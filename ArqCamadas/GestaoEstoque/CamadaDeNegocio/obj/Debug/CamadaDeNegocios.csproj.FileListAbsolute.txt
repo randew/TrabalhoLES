@@ -76,3 +76,13 @@ C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoE
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\bin\Debug\CamadaDeDados.dll.config
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csprojAssemblyReference.cache
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.dll
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeNegocio\obj\Debug\CamadaDeNegocio.pdb

@@ -45,6 +45,29 @@ namespace GestaoEstoque
             this.cbFornecedor.DataSource = this.cons.ConsultaFornos("0");
             this.cbFornecedor.DisplayMember = "Forn_nome";
         }
+
+        private void AbrirFormulario<MiForm>() where MiForm : Form, new()
+        {
+            Form formulario;
+            formulario = panelConteudo.Controls.OfType<MiForm>().FirstOrDefault();
+
+            if (formulario == null)
+            {
+                formulario = new MiForm();
+                formulario.TopLevel = false;
+                formulario.FormBorderStyle = FormBorderStyle.None;
+                formulario.Dock = DockStyle.Fill;
+                panelConteudo.Controls.Add(formulario);
+                panelConteudo.Tag = formulario;
+                formulario.Show();
+                formulario.BringToFront();
+            }
+            else
+            {
+                formulario.BringToFront();
+            }
+        }
+
         private void btnComprar_Click(object sender, EventArgs e)
         {
             if (this.txtQtd.Text == "")
@@ -77,6 +100,11 @@ namespace GestaoEstoque
                 MessageBox.Show("Quantidade s\x00f3 aceita n\x00fameros inteiros");
                 this.txtQtd.Focus();
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario<frmHistorico>();
         }
     }
 }

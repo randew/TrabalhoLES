@@ -56,10 +56,13 @@ namespace GestaoEstoque
             this.label3 = new System.Windows.Forms.Label();
             this.mskValidade = new System.Windows.Forms.MaskedTextBox();
             this.mskFabricacao = new System.Windows.Forms.MaskedTextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.panelConteudo = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.padokaBDDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.produtoBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fornecedorBindingSource)).BeginInit();
+            this.panelConteudo.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnComprar
@@ -68,7 +71,7 @@ namespace GestaoEstoque
             this.btnComprar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnComprar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnComprar.ForeColor = System.Drawing.Color.White;
-            this.btnComprar.Location = new System.Drawing.Point(402, 310);
+            this.btnComprar.Location = new System.Drawing.Point(377, 300);
             this.btnComprar.Name = "btnComprar";
             this.btnComprar.Size = new System.Drawing.Size(110, 31);
             this.btnComprar.TabIndex = 2;
@@ -81,7 +84,7 @@ namespace GestaoEstoque
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label6.Location = new System.Drawing.Point(67, 24);
+            this.label6.Location = new System.Drawing.Point(78, 18);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(141, 33);
             this.label6.TabIndex = 35;
@@ -91,7 +94,7 @@ namespace GestaoEstoque
             // 
             this.pictureBox2.BackgroundImage = global::GestaoEstoque.Properties.Resources.compras;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(21, 21);
+            this.pictureBox2.Location = new System.Drawing.Point(16, 12);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(40, 39);
             this.pictureBox2.TabIndex = 36;
@@ -102,7 +105,7 @@ namespace GestaoEstoque
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label10.Location = new System.Drawing.Point(133, 160);
+            this.label10.Location = new System.Drawing.Point(108, 148);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(95, 18);
             this.label10.TabIndex = 39;
@@ -113,7 +116,7 @@ namespace GestaoEstoque
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label11.Location = new System.Drawing.Point(162, 108);
+            this.label11.Location = new System.Drawing.Point(132, 110);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(68, 18);
             this.label11.TabIndex = 37;
@@ -122,7 +125,7 @@ namespace GestaoEstoque
             // cbProduto
             // 
             this.cbProduto.FormattingEnabled = true;
-            this.cbProduto.Location = new System.Drawing.Point(236, 109);
+            this.cbProduto.Location = new System.Drawing.Point(209, 110);
             this.cbProduto.Name = "cbProduto";
             this.cbProduto.Size = new System.Drawing.Size(276, 21);
             this.cbProduto.TabIndex = 40;
@@ -130,7 +133,7 @@ namespace GestaoEstoque
             // cbFornecedor
             // 
             this.cbFornecedor.FormattingEnabled = true;
-            this.cbFornecedor.Location = new System.Drawing.Point(236, 160);
+            this.cbFornecedor.Location = new System.Drawing.Point(209, 149);
             this.cbFornecedor.Name = "cbFornecedor";
             this.cbFornecedor.Size = new System.Drawing.Size(276, 21);
             this.cbFornecedor.TabIndex = 41;
@@ -167,7 +170,7 @@ namespace GestaoEstoque
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(135, 276);
+            this.label1.Location = new System.Drawing.Point(110, 264);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(93, 18);
             this.label1.TabIndex = 42;
@@ -175,7 +178,7 @@ namespace GestaoEstoque
             // 
             // txtQtd
             // 
-            this.txtQtd.Location = new System.Drawing.Point(236, 276);
+            this.txtQtd.Location = new System.Drawing.Point(209, 265);
             this.txtQtd.Name = "txtQtd";
             this.txtQtd.Size = new System.Drawing.Size(276, 20);
             this.txtQtd.TabIndex = 43;
@@ -186,7 +189,7 @@ namespace GestaoEstoque
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label2.Location = new System.Drawing.Point(157, 242);
+            this.label2.Location = new System.Drawing.Point(132, 230);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(71, 18);
             this.label2.TabIndex = 46;
@@ -197,7 +200,7 @@ namespace GestaoEstoque
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(138, 204);
+            this.label3.Location = new System.Drawing.Point(113, 192);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(92, 18);
             this.label3.TabIndex = 47;
@@ -205,7 +208,7 @@ namespace GestaoEstoque
             // 
             // mskValidade
             // 
-            this.mskValidade.Location = new System.Drawing.Point(236, 239);
+            this.mskValidade.Location = new System.Drawing.Point(209, 228);
             this.mskValidade.Mask = "00/00/0000";
             this.mskValidade.Name = "mskValidade";
             this.mskValidade.Size = new System.Drawing.Size(100, 20);
@@ -214,12 +217,47 @@ namespace GestaoEstoque
             // 
             // mskFabricacao
             // 
-            this.mskFabricacao.Location = new System.Drawing.Point(236, 205);
+            this.mskFabricacao.Location = new System.Drawing.Point(209, 194);
             this.mskFabricacao.Mask = "00/00/0000";
             this.mskFabricacao.Name = "mskFabricacao";
             this.mskFabricacao.Size = new System.Drawing.Size(100, 20);
             this.mskFabricacao.TabIndex = 49;
             this.mskFabricacao.ValidatingType = typeof(System.DateTime);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(377, 337);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(110, 31);
+            this.button1.TabIndex = 50;
+            this.button1.Text = "&Historico";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // panelConteudo
+            // 
+            this.panelConteudo.Controls.Add(this.pictureBox2);
+            this.panelConteudo.Controls.Add(this.button1);
+            this.panelConteudo.Controls.Add(this.label6);
+            this.panelConteudo.Controls.Add(this.mskFabricacao);
+            this.panelConteudo.Controls.Add(this.mskValidade);
+            this.panelConteudo.Controls.Add(this.label3);
+            this.panelConteudo.Controls.Add(this.label2);
+            this.panelConteudo.Controls.Add(this.txtQtd);
+            this.panelConteudo.Controls.Add(this.label1);
+            this.panelConteudo.Controls.Add(this.cbFornecedor);
+            this.panelConteudo.Controls.Add(this.cbProduto);
+            this.panelConteudo.Controls.Add(this.label10);
+            this.panelConteudo.Controls.Add(this.label11);
+            this.panelConteudo.Controls.Add(this.btnComprar);
+            this.panelConteudo.Location = new System.Drawing.Point(4, 12);
+            this.panelConteudo.Name = "panelConteudo";
+            this.panelConteudo.Size = new System.Drawing.Size(698, 435);
+            this.panelConteudo.TabIndex = 51;
             // 
             // frmCompras
             // 
@@ -228,19 +266,7 @@ namespace GestaoEstoque
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(714, 459);
-            this.Controls.Add(this.mskFabricacao);
-            this.Controls.Add(this.mskValidade);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtQtd);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.cbFornecedor);
-            this.Controls.Add(this.cbProduto);
-            this.Controls.Add(this.label10);
-            this.Controls.Add(this.label11);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.btnComprar);
+            this.Controls.Add(this.panelConteudo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmCompras";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -250,8 +276,9 @@ namespace GestaoEstoque
             ((System.ComponentModel.ISupportInitialize)(this.padokaBDDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.produtoBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fornecedorBindingSource)).EndInit();
+            this.panelConteudo.ResumeLayout(false);
+            this.panelConteudo.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -261,5 +288,7 @@ namespace GestaoEstoque
         private Label label3;
         private MaskedTextBox mskValidade;
         private MaskedTextBox mskFabricacao;
+        private Button button1;
+        private Panel panelConteudo;
     }
 }

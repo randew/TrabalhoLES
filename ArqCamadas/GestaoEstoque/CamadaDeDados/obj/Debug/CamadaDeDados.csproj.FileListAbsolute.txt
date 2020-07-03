@@ -45,3 +45,10 @@ C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoE
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.dll
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.dll.config
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csprojAssemblyReference.cache
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+C:\Users\rebeca\Documents\FATEC\5ºSEMESTRE\LAB DE ENGENHARIA\TrabalhoLES\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
