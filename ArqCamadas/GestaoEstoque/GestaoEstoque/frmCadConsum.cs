@@ -41,9 +41,14 @@ namespace GestaoEstoque
 
                     Consumidor NovoUsuario = new Consumidor();
                     if (NovoUsuario.CONcadastraConsum(name, CPF))
+                    {
                         MessageBox.Show("Cadastro realizado!");
+                        txtNome.Text = "";
+                        mskCPF.Text = "";
+                        txtNome.Focus();
+                    }
                     else
-                        MessageBox.Show("puts amigah");
+                        MessageBox.Show("Erro ao cadastrar!");
                     //FCCconsumidor.CONvalidaNome(txtNome.Text);
                     //lblSucesso.Visible = true;
                 }
