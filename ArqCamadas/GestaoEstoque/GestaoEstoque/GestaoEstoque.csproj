@@ -246,6 +246,7 @@
   <ItemGroup>
     <Content Include="Resources\57451.png" />
     <Content Include="Resources\818643-amazing-bakery-wallpapers-1920x1200-picture.jpg" />
+    <None Include="Resources\suporte.png" />
     <None Include="Resources\sobre.png" />
     <None Include="Resources\semfoto.png" />
     <None Include="Resources\vendas.png" />
@@ -261,6 +262,7 @@
     <None Include="Resources\busca.png" />
     <None Include="Resources\Historico.png" />
     <None Include="Resources\Historico1.png" />
+    <None Include="Resources\bakerymain.gif" />
     <Content Include="Resources\logo.png" />
     <None Include="Resources\password.png" />
     <None Include="Resources\logo2.png" />
@@ -269,6 +271,8 @@
     <None Include="Resources\minimizar.png" />
     <None Include="Resources\maximizada.png" />
     <None Include="Resources\produtos.png" />
+    <None Include="Resources\mostrar.png" />
+    <None Include="Resources\naomostrar.png" />
     <Content Include="Resources\sales-performance.png" />
     <None Include="Resources\user.png" />
   </ItemGroup>

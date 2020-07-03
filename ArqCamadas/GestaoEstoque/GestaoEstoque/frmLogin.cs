@@ -94,15 +94,40 @@ namespace GestaoEstoque
 
         private void cbMostrar_CheckedChanged(object sender, EventArgs e)
         {
-            if (cbMostrar.Checked == true)
-                txtSenha.PasswordChar = '\0';
-            else
-                txtSenha.PasswordChar = '*';
+           // if (cbMostrar.Checked == true)
+                //txtSenha.PasswordChar = '\0';
+           // else
+               // txtSenha.PasswordChar = '*';
         }
 
         private void btnSair_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSenha_KeyPress_1(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (Char)13)
+                btnEntrar.PerformClick();
+        }
+
+        private void imgMostra_Click(object sender, EventArgs e)
+        {
+            txtSenha.PasswordChar = '\0';
+            imgMostra.Visible = false;
+            imgNao.Visible = true;
+        }
+
+        private void imgNao_Click(object sender, EventArgs e)
+        {
+            txtSenha.PasswordChar = '*';
+            imgNao.Visible = false;
+            imgMostra.Visible = true;
         }
     }
 }
