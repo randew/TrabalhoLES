@@ -30,7 +30,8 @@ namespace GestaoEstoque
         private BindingSource fornecedorBindingSource;
         private FornecedorTableAdapter fornecedorTableAdapter;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox txtQtd;
+        private Compra compra = new Compra();
         public frmCompras()
         {
             InitializeComponent();
@@ -46,24 +47,35 @@ namespace GestaoEstoque
         }
         private void btnComprar_Click(object sender, EventArgs e)
         {
-            if (this.textBox1.Text == "")
+            if (this.txtQtd.Text == "")
             {
-                MessageBox.Show("Por favor, preencha todos os campos!", "Valida\x00e7\x00e3o");
-                this.textBox1.Focus();
+                MessageBox.Show("Insira uma quantidade válida!", "Validação");
+                this.txtQtd.Focus();
+            }
+            else if(this.mskFabricacao.Text == String.Empty || !compra.COMvalidaData(int.Parse(this.mskFabricacao.Text.Substring(0, 2)), int.Parse(this.mskFabricacao.Text.Substring(3, 2)), int.Parse(this.mskFabricacao.Text.Substring(6, 4))))
+            {
+                MessageBox.Show("Insira uma data válida!");
+                this.mskFabricacao.Focus();
+            }
+            else if(this.mskValidade.Text == String.Empty || !compra.COMvalidaData(int.Parse(this.mskValidade.Text.Substring(0,2)), int.Parse(this.mskValidade.Text.Substring(3, 2)), int.Parse(this.mskValidade.Text.Substring(6, 4))))
+            {
+                MessageBox.Show("Insira uma data váilda!");
+                this.mskValidade.Focus();
             }
             else
             {
+                DateTime dataFab = new DateTime();
                 MessageBox.Show("Comprado com sucesso!", "Compras");
-                MessageBox.Show("Pedido sendo processado!\nFavor esperar por atualiza\x00e7\x00f5es sobre a compra", "Compras");
+                MessageBox.Show("Pedido sendo processado!\nFavor esperar por atualizaçõees sobre a compra", "Compras");
             }
         }
         private void textBox1_Validated(object sender, EventArgs e)
         {
             int result = 1;
-            if (!int.TryParse(this.textBox1.Text, out result))
+            if (!int.TryParse(this.txtQtd.Text, out result))
             {
                 MessageBox.Show("Quantidade s\x00f3 aceita n\x00fameros inteiros");
-                this.textBox1.Focus();
+                this.txtQtd.Focus();
             }
         }
     }

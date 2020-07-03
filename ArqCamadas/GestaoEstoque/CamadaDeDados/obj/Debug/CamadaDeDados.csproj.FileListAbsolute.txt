@@ -38,3 +38,10 @@ C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3\ArqCamadas\GestaoEst
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.dll
 C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.dll.config
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+C:\Users\andre\OneDrive\Documentos\ProjetoLES\TrabalhoLESv3.1\ArqCamadas\GestaoEstoque\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
