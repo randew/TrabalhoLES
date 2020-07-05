@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Globalization;
 
 namespace GestaoEstoque
 {
@@ -44,6 +45,7 @@ namespace GestaoEstoque
             this.cbProduto.ValueMember = "ID_Produto";
             this.cbFornecedor.DataSource = this.cons.ConsultaFornos("0");
             this.cbFornecedor.DisplayMember = "Forn_nome";
+            this.cbFornecedor.ValueMember = "Forn_cnpj";
         }
 
         private void AbrirFormulario<MiForm>() where MiForm : Form, new()
@@ -87,9 +89,17 @@ namespace GestaoEstoque
             }
             else
             {
-                DateTime dataFab = new DateTime();
-                MessageBox.Show("Comprado com sucesso!", "Compras");
-                MessageBox.Show("Pedido sendo processado!\nFavor esperar por atualizaçõees sobre a compra", "Compras");
+                DateTime dataIni = DateTime.Now;
+                DateTime dataPrev = DateTime.Parse(mskFabricacao.Text, new CultureInfo("pt-BR", false));
+                if (compra.COMinjetar(cbFornecedor.SelectedValue.ToString(), int.Parse(cbProduto.SelectedValue.ToString()), "EM ANDAMENTO", dataIni, dataPrev))
+                {
+                    MessageBox.Show("Comprado com sucesso!", "Compras");
+                    MessageBox.Show("Pedido sendo processado!\nFavor esperar por atualizaçõees sobre a compra", "Compras");
+                }
+                else
+                {
+                    MessageBox.Show("Não foi possível realizar o cadastro.");
+                }
             }
         }
         private void textBox1_Validated(object sender, EventArgs e)

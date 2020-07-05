@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using CamadaDeDados;
+using System.Text.RegularExpressions;
 
 
 namespace CamadaDeNegocios
@@ -25,8 +28,33 @@ namespace CamadaDeNegocios
             this.COMstatus = COMstatus;
         }
 
-        public bool COMinjetar(Compra comprar) =>
-            true;
+        /*public bool COMinjetar(Compra comprar) =>
+            true;*/
+
+        public bool COMinjetar(string cnpj, int id_prod, string status, DateTime data_inicial, DateTime data_final)
+        {
+            try
+            {
+                object[] objArray1 = new object[11];
+                objArray1[0] = "insert into Compra(ID_CNPJ,ID_Produto,Comp_Status,Comp_DataInicial,Comp_DataFinal) values('";
+                objArray1[1] = cnpj;
+                objArray1[2] = "','";
+                objArray1[3] = id_prod;
+                objArray1[4] = "','";
+                objArray1[5] = status;
+                objArray1[6] = "','";
+                objArray1[7] = data_inicial;
+                objArray1[8] = "','";
+                objArray1[9] = data_final;
+                objArray1[10] = "')";
+                new Conexao().ExecutaNQ(string.Concat(objArray1));
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
 
         public bool COMinsereDataF(int[] dataI, int[] dataF)
         {

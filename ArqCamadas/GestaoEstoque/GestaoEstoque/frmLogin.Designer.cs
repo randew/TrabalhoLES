@@ -141,6 +141,7 @@
             this.txtSenha.Size = new System.Drawing.Size(252, 30);
             this.txtSenha.TabIndex = 2;
             this.txtSenha.Tag = "";
+            this.txtSenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSenha_KeyPress);
             // 
             // imgNao
             // 

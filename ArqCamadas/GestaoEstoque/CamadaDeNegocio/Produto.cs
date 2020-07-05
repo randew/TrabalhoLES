@@ -48,7 +48,7 @@ namespace CamadaDeNegocios
             try
             {
                 Conexao conexao = new Conexao();
-                return ((frente != "0") ? conexao.retornaAdapterTB("SELECT * FROM Produto WHERE Prod_Local ='FUNDO'", tb) : conexao.retornaAdapterTB("SELECT * FROM Produto WHERE Prod_Local ='FRENTE'", tb));
+                return ((frente != "0") ? conexao.retornaAdapterTB("SELECT * FROM Produto WHERE Prod_Local ='FUNDO' AND Prod_status ='ATIVO'", tb) : conexao.retornaAdapterTB("SELECT * FROM Produto WHERE Prod_Local ='FRENTE' AND Prod_status ='ATIVO'", tb));
             }
             catch (Exception)
             {
@@ -91,7 +91,7 @@ namespace CamadaDeNegocios
         {
             try
             {
-                new Conexao().ExecutaNQ(("DELETE FROM Produto WHERE ID_Prod=" + id) ?? "");
+                new Conexao().ExecutaNQ("UPDATE Produto SET Prod_status = 'INATIVO' WHERE ID_Produto=" + id + "");
                 return true;
             }
             catch (Exception)
@@ -104,8 +104,8 @@ namespace CamadaDeNegocios
         {
             try
             {
-                object[] objArray1 = new object[13];
-                objArray1[0] = "insert into Produto(ID_Produto,Prod_Nome,Prod_Valor,ID_Lote,Prod_Qtd,Prod_Local) values('";
+                object[] objArray1 = new object[14];
+                objArray1[0] = "insert into Produto(ID_Produto,Prod_Nome,Prod_Valor,ID_Lote,Prod_Qtd,Prod_Local,Prod_status) values('";
                 objArray1[1] = id;
                 objArray1[2] = "','";
                 objArray1[3] = name;
@@ -117,7 +117,8 @@ namespace CamadaDeNegocios
                 objArray1[9] = qtd;
                 objArray1[10] = "','";
                 objArray1[11] = local;
-                objArray1[12] = "')";
+                objArray1[12] = "','";
+                objArray1[13] = "ATIVO')";
                 new Conexao().ExecutaNQ(string.Concat(objArray1));
                 return true;
             }
@@ -264,7 +265,7 @@ namespace CamadaDeNegocios
         }
 
         public DataSet selecionaProd() =>
-            new Conexao().RetornaDataSet("Select * from Produto");
+            new Conexao().RetornaDataSet("Select ID_Produto,Prod_Nome,Prod_Valor,ID_Lote,Prod_Qtd,Prod_Local from Produto");
 
         public long PROid { get; private set; }
 

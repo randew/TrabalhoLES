@@ -112,8 +112,7 @@ namespace GestaoEstoque
 
         private void txtSenha_KeyPress_1(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == (Char)13)
-                btnEntrar.PerformClick();
+
         }
 
         private void imgMostra_Click(object sender, EventArgs e)

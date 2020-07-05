@@ -26,8 +26,7 @@ namespace CamadaDeDados.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Users\\rebeca\\Documents\\FATEC\\banc" +
-            "o\\padokaBD.mdb")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\\padokaBD.mdb")]
         public string padokaBDConnectionString {
             get {
                 return ((string)(this["padokaBDConnectionString"]));

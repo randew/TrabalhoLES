@@ -26,8 +26,8 @@ namespace GestaoEstoque.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Users\\rebeca\\Documents\\FATEC\\banc" +
-            "o\\padokaBD.mdb")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Users\\andre\\OneDrive\\Documentos\\P" +
+            "rojetoLES\\TrabalhoLESv4\\banco\\padokaBD.mdb")]
         public string padokaBDConnectionString1 {
             get {
                 return ((string)(this["padokaBDConnectionString1"]));
