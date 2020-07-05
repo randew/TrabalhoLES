@@ -45,7 +45,7 @@ namespace GestaoEstoque
         private void BtnCad_Click(object sender, EventArgs e)
         {
             mInicio.Visible = false;
-            mVendas.Visible = false;
+            //mVendas.Visible = false;
             mInventario.Visible = false;
             mCadastros.Visible = true;
             mCompras.Visible = false;
@@ -61,7 +61,7 @@ namespace GestaoEstoque
         private void btnInventario_Click(object sender, EventArgs e)
         {
             mInicio.Visible = false;
-            mVendas.Visible = false;
+            //mVendas.Visible = false;
             mInventario.Visible = true;
             mCadastros.Visible = false;
             mCompras.Visible = false;
@@ -72,7 +72,7 @@ namespace GestaoEstoque
         private void btnCompras_Click(object sender, EventArgs e)
         {
             mInicio.Visible = false;
-            mVendas.Visible = false;
+            //mVendas.Visible = false;
             mInventario.Visible = false;
             mCadastros.Visible = false;
             mCompras.Visible = true;
@@ -90,7 +90,7 @@ namespace GestaoEstoque
         private void btnVendas_Click(object sender, EventArgs e)
         {
             mInicio.Visible = false;
-            mVendas.Visible = true;
+            //mVendas.Visible = true;
             mInventario.Visible = false;
             mCadastros.Visible = false;
             mCompras.Visible = false;
@@ -141,7 +141,7 @@ namespace GestaoEstoque
         private void btnInicio_Click(object sender, EventArgs e)
         {
             mInicio.Visible = true;
-            mVendas.Visible = false;
+            //mVendas.Visible = false;
             mInventario.Visible = false;
             mCadastros.Visible = false;
             mCompras.Visible = false;
@@ -151,7 +151,12 @@ namespace GestaoEstoque
 
         private void btnConfiguracoes_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("C:\\Users\\rebeca\\Videos\\simplex\\Corno-20191129T144800Z-001\\Corno\\ArqCamadas\\Ajuda/help.html");
+            System.Diagnostics.Process.Start("index.html");
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
 
         private void btnRestaurar_Click(object sender, EventArgs e)
